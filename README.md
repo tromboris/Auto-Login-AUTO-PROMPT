@@ -10,11 +10,11 @@ then read message below
 
 
 If you are seasoned python veteran:
-before running this script, make sure you run terminal:
+before running this script, make sure you run in terminal:
 pip install undetected_chromedriver; pip install selenium
 then
 python3 name_of_script.py
 
-And also, sorry the script isn't written in a basic definition format. I made it so it was a few lines of code as possible. Feel free to use it any way you want!
+And also, sorry the script isn't written in a basic definition format. I made it so it was as few lines of code as possible. Feel free to use it any way you want!
 
 -Cory Boris (COBOMOJO on instagram)
