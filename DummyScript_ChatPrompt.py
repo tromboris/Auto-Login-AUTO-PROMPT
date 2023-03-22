@@ -22,7 +22,7 @@ options.add_experimental_option("prefs", prefs)
 # Use the Chrome class from undetected_chromedriver
 driver = Chrome(options=options)
 
-# Navigate to a certain ai websiter
+# Navigate to a certain ai website
 url = "Your_favorite_AI_WEBSITE"
 driver.get(url)
 
