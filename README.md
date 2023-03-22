@@ -10,11 +10,15 @@ then read message below
 
 
 If you are seasoned python veteran:
+
+I wrote this to use selenium and so make sure you have that updated as detailed below.
 before running this script, make sure you run in terminal:
 pip install undetected_chromedriver; pip install selenium
 then
 python3 name_of_script.py
 
-And also, sorry the script isn't written in a basic definition format. I made it so it was as few lines of code as possible. Feel free to use it any way you want!
+Sorry the script isn't written in a basic definition format. I made it so it was as few lines of code as possible. Feel free to use it any way you want!
+
+This was designed for Mac, but it would be simple to run it on windows, all you would have to do is change the file path for where the chrome driver is installed for your machine. But there is no guarantee it would work for windows as it was troubleshooted on mac only.
 
 -Cory Boris (COBOMOJO on instagram)
