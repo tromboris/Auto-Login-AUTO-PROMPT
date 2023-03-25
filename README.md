@@ -1,24 +1,34 @@
-# Auto-Login-AUTO-PROMPT
-The purpose of this script is only to make the process of logging into and using the 
-public version of "your favorite Chat based AI site" much easier and 
-more automatic. It is made with a prompt I personally optimized but it can always be replaced or improved for whatever purpose you want. 
+Auto-Login-AUTO-PROMPT (only for mac for now)
+The purpose of this script is to simplify the process of logging into and using the public version of ChatGPT. It is designed for educational purposes only, and the prompts used in the script can be replaced or improved based on your needs.
 
+Note: The script uses dummy strings for Your_email and Your_password. You will need to replace them with your actual email and password for the script to work properly.
 
-If you are new to python:
-https://www.python.org/
-then read message below
+Workflow:
+The script will prompt you to choose one of five options. Four of the options are real and one is a dummy test.
+Select an option and wait for your custom ChatGPT environment to load.
+Enjoy!
+Note: You must be logged in to ChatGPT on the main profile that loads in your main Chrome browser. Additionally, make sure that your Chrome preferences are set to save your login information for that website.
 
+Usage:
+For Python beginners:
 
-If you are seasoned python veteran:
+If you are new to Python, you can download it from the official Python website: https://www.python.org/
 
-I wrote this to use selenium and so make sure you have that updated as detailed below.
-before running this script, make sure you run in terminal:
-pip install undetected_chromedriver; pip install selenium
-then
+For seasoned Python developers:
+
+This script uses Selenium, so make sure that you have it updated. Before running the script, run the following commands in your terminal:
+pip install undetected_chromedriver
+pip install selenium
+
+Then, to run the script, type:
 python3 name_of_script.py
 
-Sorry the script isn't written in a basic definition format. I made it so it was as few lines of code as possible. Feel free to use it any way you want!
+Compatibility:
+This script was designed for Mac, but it can be easily adapted to work on Windows. To run the script on Windows, you will need to update the file path for where the Chrome driver is installed on your machine. Please note that while the script was tested on Mac, there is no guarantee that it will work on Windows.
 
-This was designed for Mac, but it would be simple to run it on windows, all you would have to do is change the file path for where the chrome driver is installed for your machine. But there is no guarantee it would work for windows as it was troubleshooted on mac only.
+License:
+This script is licensed under the MIT License. (c) Cory Boris 3/2023
 
--Cory Boris (COBOMOJO on instagram)
+For more information on the MIT License, see LICENSE.txt.
+
+Designed, developed, and significantly debuggeed by Cory Boris (COBOMOJO)
